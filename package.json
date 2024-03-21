@@ -1,0 +1,12 @@
+{
+	"name": "yash-help",
+	"version": "1.0.0",
+	"description": "This will for yash help, and will only contain the javascript functions.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC"
+}
